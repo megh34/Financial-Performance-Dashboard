@@ -33,7 +33,7 @@ Without a centralized, interactive dashboard, decision-making was slow and based
 
 3. **Visualization Tools Used**:  
    - Bar charts, line charts, KPI tiles, color gradients for easy interpretation.
-   - Tableau/Power BI with dynamic and responsive design principles.
+   - Tableau with dynamic and responsive design principles.
 
 ---
 
