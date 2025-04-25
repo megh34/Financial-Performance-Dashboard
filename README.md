@@ -1,6 +1,3 @@
-Sure! Here's a complete **README** you can use for your **Financial Performance Dashboard** project:
-
----
 
 #  Financial Performance Dashboard
 
@@ -48,9 +45,6 @@ Without a centralized, interactive dashboard, decision-making was slow and based
 - There was a **sharp increase in sales and profit** during the last quarter (months 10-12).
 - Units sold increased with discounting, but high discounts reduced overall profitability.
 
-By using this dashboard, the company can better align its discount policies, optimize its product portfolio, and focus on high-performing regions and products for future growth.
 
----
 
-Would you also like me to help you create a **summary text for LinkedIn or portfolio posting** based on this?  
-It would make your project look even more professional! 
+
