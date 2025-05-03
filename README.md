@@ -3,6 +3,10 @@
 
 ##  Introduction
 This dashboard provides a detailed financial overview of a company's performance across multiple key indicators. Built with the goal of helping stakeholders understand sales trends, profit margins, and the impact of discounts, it visually summarizes large volumes of data into simple and actionable insights.
+## Dashboard Overview
+![image](https://github.com/user-attachments/assets/e071919c-6087-4d17-a061-557d94166423)
+
+
 
 ---
 
